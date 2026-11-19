@@ -51,8 +51,6 @@ stltostp <input_file.stl> <output_file.stp> [tolerance]
 ### 3D Printing Files & PCB Design
 All source code and build files for the project are provided in the repository.
 
-📂 Download Here: [GitHub Repository](https://github.com/Ballistyxx/stl-to-step)
-
 🛠️ **Installation:** Clone this repository and follow the build instructions provided in the Installation section.
 
 ### Known Limitations & Future Improvements
@@ -66,6 +64,6 @@ This project is open-source under the MIT License. See the LICENSE file for deta
 ### Author
 Developed by w3gen, installer streamlining by Eli Ferrara
 
-📧 Contact: [GitHub Issues](https://github.com/Ballistyxx/stl-to-step/issues)
+📧 Contact: [GitHub Issues](https://github.com/eliferrara/stl-to-step/issues)
 
 ✨ If you like this project, consider giving it a ⭐ on GitHub!
