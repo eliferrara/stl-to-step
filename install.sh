@@ -3,7 +3,7 @@
 # Define installation directory
 INSTALL_DIR="/usr/local/bin"
 EXECUTABLE_NAME="stltostp"
-REPO_URL="https://github.com/Ballistyxx/stl-to-step"
+REPO_URL="https://github.com/eliferrara/stl-to-step"
 
 # Detect OS
 ios=$(uname -s)
