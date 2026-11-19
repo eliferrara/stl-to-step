@@ -1,6 +1,6 @@
 $INSTALL_DIR = "C:\Program Files\stltostp"
 $EXECUTABLE_NAME = "stltostp.exe"
-$REPO_URL = "https://github.com/Ballistyxx/stl-to-step"
+$REPO_URL = "https://github.com/eliferrara/stl-to-step"
 $FOLDER_NAME = "stl-to-stp"
 
 # Function to check for errors
